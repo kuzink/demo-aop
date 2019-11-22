@@ -11,7 +11,7 @@ public class SimpleService {
 	private Logger logger = LoggerFactory.getLogger(this.getClass());
 
 	public String hello(){
-		return "hello branch1";
+		return "wake up Neo";
 	}
 
 	public String aspectBefore(){
